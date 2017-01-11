@@ -15,3 +15,4 @@ Download “plorem” folder
 Go to your packages (in Sublime : Preferences > Browse Packages…)
 Copy the folder “plorem” in this folder
 
+<img src="http://i.giphy.com/l4q8nXVp9p87nQky4.gif" width="1000" alt="plorem sublime text"/>
